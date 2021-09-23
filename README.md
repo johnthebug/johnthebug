@@ -1,4 +1,4 @@
-### Hi there 👋 Raguvaran here
+### Hi there 👋 johnkay here
 
 <!--
 **johnthebug/johnthebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
